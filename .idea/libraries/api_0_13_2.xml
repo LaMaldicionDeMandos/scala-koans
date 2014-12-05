@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api-0.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/api/jars/api-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

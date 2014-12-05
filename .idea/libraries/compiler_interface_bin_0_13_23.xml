@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compiler-interface-bin-0.13.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/precompiled-2_9_3/jars/compiler-interface-bin-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

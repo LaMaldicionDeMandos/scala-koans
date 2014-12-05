@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="run-0.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/run/jars/run-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

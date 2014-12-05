@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="logging-0.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/logging/jars/logging-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

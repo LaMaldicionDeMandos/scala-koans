@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test-agent-0.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/test-agent/jars/test-agent-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

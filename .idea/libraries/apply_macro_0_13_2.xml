@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apply-macro-0.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

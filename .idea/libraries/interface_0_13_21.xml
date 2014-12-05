@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="interface-0.13.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sbtboot/scala-2.10.3/org.scala-sbt/sbt/0.13.2/xsbti/interface-0.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

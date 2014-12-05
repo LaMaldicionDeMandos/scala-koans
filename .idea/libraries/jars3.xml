@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

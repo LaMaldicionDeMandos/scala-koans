@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt-idea-1.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ivyrepo/cache/scala_2.10/sbt_0.13/com.github.mpeltonen/sbt-idea/jars/sbt-idea-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
